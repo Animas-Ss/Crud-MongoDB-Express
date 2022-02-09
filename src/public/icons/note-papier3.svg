@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="Calque_1"
+    version="1.1"
+    xml:space="preserve"
+    viewBox="0 0 268.552 328.64"
+    enable-background="new 0 0 268.552 328.64"
+    y="0px"
+    x="0px"
+  >
+	<path
+      d="m112.63 35.919"
+      fill="none"
+  />
+		<path
+      stroke="#CACBCC"
+      d="m62.706 319.43l-59.666-264.41 216.06-48.753 40.631 180.05s14.893 48.536-20.993 54.885 17.144 34.632-26.135 44.397c-43.27 9.77-149.89 33.83-149.89 33.83z"
+      fill="#fff"
+  />
+		<path
+      stroke="#D1D2D4"
+      d="m259.73 186.32s14.879 46.777-20.993 54.885 15.595 34.98-26.135 44.397c0 0 73.65-11.93 47.13-99.28z"
+      fill="#C4C5C6"
+  />
+		<path
+      d="m105.43 33.16c-5.543 2.905-6.747 9.041-2.691 13.703 4.056 4.664 11.837 6.089 17.379 3.185 5.542-2.905 6.747-9.04 2.69-13.703-4.06-4.664-11.84-6.089-17.38-3.185z"
+      fill="#5AAF50"
+  />
+		<path
+      d="m111.91 19.629l0.319 9.631-3.992 9.598s1.164 5.258 9.454 3.426l4.214-9.145 8.879-8.495c0 0.001-3.29-14.55-18.87-5.015z"
+      fill="#94BE15"
+  />
+		<path
+      d="m116.26 13.766c-4.354 2.282-5.301 7.103-2.113 10.767 3.188 3.665 9.3 4.784 13.654 2.502 4.356-2.282 5.303-7.103 2.115-10.768-3.19-3.662-9.3-4.783-13.66-2.501z"
+      fill="#9CC34A"
+  />
+		<path
+      opacity=".51"
+      stroke="#D6D6D7"
+      stroke-width=".5"
+      d="m116.66 21.542c-1.291 1.286-0.306 3.198 2.201 4.271 2.504 1.073 5.58 0.898 6.872-0.387 1.291-1.287 0.304-3.2-2.201-4.273-2.5-1.071-5.57-0.898-6.87 0.389z"
+      fill="#fff"
+  />
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >paper notes 3</dc:title
+        ><dc:date
+          >2013-08-16T15:28:42</dc:date
+        ><dc:description
+          >A paper note with a thumbtack through it</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/181868/paper-notes-3-by-presquesage-181868</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >presquesage</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >paper</rdf:li
+            ><rdf:li
+              >template</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

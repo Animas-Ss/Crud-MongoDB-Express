@@ -1,0 +1,21 @@
+// configuracion de babel para que pueda entender el import y export en express
+//Tuve algunos problemas para sortear esto ya que la mayor 
+//parte de la información era para versiones anteriores de babel.
+//Para Babel 7, instale estas dos dependencias:
+
+//npm install --save @babel/runtime 
+//npm install --save-dev @babel/plugin-transform-runtime
+//Y, en .babelrc, agrega:
+
+//{
+   // "presets": ["@babel/preset-env"],
+    //"plugins": [
+    //    ["@babel/transform-runtime"]
+    //]
+//}
+{
+    "presets": ["@babel/preset-env"],
+    "plugins": [
+        ["@babel/transform-runtime"]
+    ]
+}

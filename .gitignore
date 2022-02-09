@@ -1,0 +1,6 @@
+#archivo de variables de entorno
+.env
+#dependencias de node.js
+node_modules
+#carpeta construida de build
+build
