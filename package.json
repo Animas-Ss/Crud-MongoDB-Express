@@ -6,7 +6,8 @@
   "scripts": {
     "babel-node": "babel-node --presets=@babel/preset-env",
     "dev": "nodemon --exec npm run babel-node src/index.js",
-    "build": "babel src -d build && ncp src/views build/views && ncp src/public build/public"
+    "build": "babel src -d build && ncp src/views build/views && ncp src/public build/public",
+    "start": "node build/index.js"
   },
   "keywords": [],
   "author": "Animas",
