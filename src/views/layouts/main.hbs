@@ -9,11 +9,18 @@
     <link rel="stylesheet" href="/Css/main.css"
 </head>
 <body>
+    <header>
+        {{> navbar }}
+    </header>
+    
+    
+    <main>
+        {{{ body }}}
+    </main>
 
-    {{> navbar }}
-
-
-    {{{ body }}}
+    <footer>
+        {{> footer }}
+    </footer>
     
 </body>
 </html>
